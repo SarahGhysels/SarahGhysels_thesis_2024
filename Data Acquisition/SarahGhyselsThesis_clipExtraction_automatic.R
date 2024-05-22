@@ -1,3 +1,4 @@
+#Code to automatically generate plot clips from the orthomosaic image
 #install.packages("devtools", type="source")
 
 #devtools::install_github("OpenDroneMap/FIELDimageR", dependencies=TRUE)
